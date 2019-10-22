@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Ybrayym/jeopardyJSON.git"
+  },
+  "author": "Ybrayym",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/Ybrayym/jeopardyJSON/issues"
+  },
+  "homepage": "https://gitlab.com/Ybrayym/jeopardyJSON#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.0"
+  }
+}
